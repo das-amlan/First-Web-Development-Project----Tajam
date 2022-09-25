@@ -1,0 +1,222 @@
+/* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+    .footerBottomRight p {
+        padding-right: 40px;
+    }
+
+    .testArrowLeft {
+        top: 79%;
+        left: 25%;
+    }
+    .testArrowRight {
+        top: 79%;
+        right: 27%;
+    }
+}
+/* `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+    .footerTopLeft img {
+        padding-bottom: 19px;
+    }
+    .footerBottomRight p {
+        padding-right: 84px;
+    }
+
+    .testArrowLeft {
+        top: 79%;
+        left: 22%;
+    }
+    .testArrowRight {
+        top: 79%;
+        right: 24%;
+    }
+}
+
+
+
+/* `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .nav-link {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: rgba(43, 42, 42, 0.7);
+    }
+    .navbar-toggler {
+        background: #ffffff;
+    }
+    .banner-text {
+        padding-top: 130px;
+    }
+    .banner-text {
+        padding-bottom: 145px;
+    }
+    .aboutText h2 {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .aboutText p {
+        padding-bottom: 10px;
+        padding-right: 0px;
+
+    }
+    .aboutText a {
+        width: 100%;
+        text-align: center;
+    }
+    #ourStory {
+        padding: 100px 0;
+    }
+
+    .serviceText {
+        padding-top: 20px;
+    }
+    .teamTextBot a {
+        display: block;
+        width: 100%;
+    }
+    .projectButton a {
+        width: 100%;
+    }
+    .testArrowLeft {
+        top: 81%;
+        left: 13%;
+    }
+    .testArrowRight {
+        top: 80%;
+        right: 16%;
+    }
+    .contactLeft a {
+        width: 100%;
+        text-align: center;
+    }
+    .contactRight h3 {
+        padding-top: 35px;
+    }
+    .contactLeft h3, .contactRight h3 {
+        text-align: center;
+    }
+    .footerTopLeft img {
+        padding-bottom: 15px;
+    }
+    .footerTopMid h4, .footerTopRight h4 {
+        padding-bottom: 27px;
+        padding-top: 13px;
+    }
+    .footerBottomRight p {
+        padding-right: 3px;
+    }
+
+}
+/* `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    .nav-link {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: rgba(43, 42, 42, 0.7);
+    }
+    .navbar-toggler {
+        background: #ffffff;
+    }
+    .banner-text {
+        padding-top: 100px;
+    }
+    .banner-text {
+        padding-bottom: 145px;
+    }
+    .aboutText h2 {
+        text-align: center;
+        padding-top: 20px;
+    }
+    .aboutText p {
+        padding-bottom: 10px;
+        padding-right: 0px;
+    }
+    .aboutText a {
+        width: 100%;
+        text-align: center;
+    }
+    #ourStory {
+        padding: 100px 0;
+    }
+    #service {
+        padding: 52px 0;
+    }
+    .serviceText {
+        padding-top: 20px;
+    }
+    .serviceText img {
+        padding-bottom: 20px;
+    }
+    .teamTextBot a {
+        display: block;
+        width: 100%;
+    }
+    .testArrowLeft {
+        top: 83%;
+        left: 14%;
+    }
+    .testArrowRight {
+        top: 83%;
+        right: 16%;
+    }
+
+    .projectButton a {
+        width: 100%;
+    }
+
+    .contactLeft a {
+        width: 100%;
+        text-align: center;
+    }
+    .contactRight h3 {
+        padding-top: 35px;
+    }
+    .contactLeft h3, .contactRight h3 {
+        text-align: center;
+    }
+    .footerTopLeft img {
+        padding-bottom: 15px;
+    }
+    .footerTopLeft p {
+        padding: 0px 39px 0px 0px;
+    }
+    .footerTopMid h4, .footerTopRight h4 {
+        padding-bottom: 27px;
+        padding-top: 13px;
+    }
+    .footerBottomLeft ul li a {
+        font-size: 10px;
+    }
+    .footerBottomRight p {
+        font-size: 10px;
+    }
+}
+/* `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .nav-link {
+        text-align: center;
+    }
+    .navbar-nav {
+        background: rgba(43, 42, 42, 0.7);
+    }
+    .navbar-toggler {
+        background: #ffffff;
+    } 
+    .testArrowLeft {
+        display: none !important;
+    }
+    .testArrowRight {
+        display: none !important;
+    }
+    .footerTopLeft {
+        padding: 0 100px;
+    }
+    .footerTopMid {
+        padding: 0 100px;
+    }
+    .footerTopRight {
+        padding: 0 100px;
+    }
+}
