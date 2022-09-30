@@ -1,5 +1,5 @@
 # First-Web-Development-Project -- Tajam
-This is my first web development project. I did this course as part of a web development course.
+This is my first web development project. I did this project as part of a web development course.
 
 ## What have I learned
 * HTML
