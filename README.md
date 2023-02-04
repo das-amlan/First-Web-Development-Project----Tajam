@@ -1,5 +1,6 @@
 # First-Web-Development-Project - Tajam
 This repository contains the code for my first web development project, where I aimed to create a modern and stylish website using HTML, CSS, and Bootstrap. In the process, I also learned how to use Font Awesome, Slick Slider, and VenoBox to enhance the user experience.
+
 Site Link: [Tajam](https://das-amlan.github.io/First-Web-Development-Project----Tajam/)
 
 The website is designed to be fully responsive, ensuring that it can be easily viewed on a wide range of devices. The use of Bootstrap and CSS allows the website to adjust to different screen sizes, providing an optimal viewing experience for all users.
